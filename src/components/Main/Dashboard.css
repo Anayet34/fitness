@@ -1,0 +1,34 @@
+.dashboard-container {
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #f5f5f5;
+	border: 1px solid #ccc;
+  }
+  
+  .section {
+	margin-bottom: 20px;
+  }
+  
+  .section h3 {
+	font-size: 18px;
+	margin-bottom: 10px;
+  }
+  
+  .section p {
+	font-size: 16px;
+  }
+  
+  .section ul {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  .section li {
+	margin-bottom: 5px;
+  }
+  
+
+  
+  
